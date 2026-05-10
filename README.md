@@ -1,4 +1,4 @@
-# seq-thinking
+# pi-seq-thinking
 
 A [pi](https://github.com/earendil-works/pi-mono) extension that adds a `/seq-thinking <prompt>` command and a `sequentialthinking` tool for visible step-by-step reasoning checkpoints.
 
@@ -7,7 +7,7 @@ The extension records numbered thought references, supports revisions, lets the 
 ## Install
 
 ```bash
-pi install git:github.com/xRyul/seq-thinking
+pi install git:github.com/xRyul/pi-seq-thinking
 ```
 
 Restart `pi` or run `/reload` after installation.
@@ -15,7 +15,7 @@ Restart `pi` or run `/reload` after installation.
 ## Try without installing
 
 ```bash
-pi -e git:github.com/xRyul/seq-thinking
+pi -e git:github.com/xRyul/pi-seq-thinking
 ```
 
 ## Usage
@@ -83,8 +83,8 @@ In this example, branches `3.1`, `3.2`, and `3.3` all start from `branchFromThou
 Clone and symlink or run directly from the extension directory:
 
 ```bash
-git clone https://github.com/xRyul/seq-thinking.git
-cd seq-thinking
+git clone https://github.com/xRyul/pi-seq-thinking.git
+cd pi-seq-thinking
 pi -e ./index.ts
 ```
 

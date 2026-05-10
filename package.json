@@ -1,5 +1,5 @@
 {
-  "name": "seq-thinking",
+  "name": "pi-seq-thinking",
   "version": "0.1.0",
   "description": "Pi extension for visible sequential thinking with revisions, branches, and convergence references.",
   "type": "module",
@@ -7,12 +7,12 @@
   "author": "xryul",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xRyul/seq-thinking.git"
+    "url": "git+https://github.com/xRyul/pi-seq-thinking.git"
   },
   "bugs": {
-    "url": "https://github.com/xRyul/seq-thinking/issues"
+    "url": "https://github.com/xRyul/pi-seq-thinking/issues"
   },
-  "homepage": "https://github.com/xRyul/seq-thinking#readme",
+  "homepage": "https://github.com/xRyul/pi-seq-thinking#readme",
   "keywords": [
     "pi-package",
     "pi",
